@@ -1,0 +1,4 @@
+C++ Week1 Lab
+Files submitted: CMakeLists.txt / Week1.cpp / Week1.h  (Jan 13, 2021)
+
+PatrickCzermak_Lab1.exe and Visual Studio file path is [ C:\Users\Patrick\source\repos\Week1 ]
